@@ -13,9 +13,9 @@ class Header extends Component {
           <Nav.Link as={Link} to="/products">
             Products
           </Nav.Link>
-          <Nav.Link as={Link} to="/">
+          {/* <Nav.Link as={Link} to="/">
             About us
-          </Nav.Link>
+          </Nav.Link> */}
         </Nav>
       </Navbar>
     );
