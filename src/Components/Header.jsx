@@ -13,6 +13,9 @@ class Header extends Component {
           <Nav.Link as={Link} to="/products">
             Products
           </Nav.Link>
+          <Nav.Link as={Link} to="/products">
+            Products
+          </Nav.Link>
         </Nav>
       </Navbar>
     );
