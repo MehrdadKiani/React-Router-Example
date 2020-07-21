@@ -2,4 +2,4 @@
 Created with CodeSandbox
 
 Demo URL:
-https://reactrouter.vercel.app/
+<a href="https://reactrouter.vercel.app/" target="_blank">https://reactrouter.vercel.app</a>
