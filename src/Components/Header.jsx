@@ -15,10 +15,7 @@ class Header extends Component {
           </Nav.Link>
           <Nav.Link className="text-warning" href="https://codesandbox.io/s/github/MehrdadKiani/React-Router-Example">
             Sandbox
-          </Nav.Link>
-          <Nav.Link className="text-danger">
-            Test
-          </Nav.Link>          
+          </Nav.Link>         
         </Nav>
       </Navbar>
     );
